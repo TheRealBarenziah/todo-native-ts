@@ -1,0 +1,3 @@
+- wireframe
+- user stories
+- backend/backoffice (strapi)
