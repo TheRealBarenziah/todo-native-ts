@@ -4,7 +4,7 @@
 
 # Can I has doc ?
 <p align="center">
-  <img src="https://www.mapzen.com/assets/images/open-source-docs/cat-and-docs-resized.png" alt="docat" title="docat"/>
+  <img src="https://www.mapzen.com/assets/images/open-source-docs/cat-and-docs-resized.png"/>
 </p>
 
 - If you no [Expo-cli](https://expo.io/learn) grab it
