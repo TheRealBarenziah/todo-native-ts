@@ -2,9 +2,18 @@ import React, { Component } from 'react'
 import { Form, Item, Input, Button, Text, Toast, Root } from 'native-base';
 import { StyleSheet, View, TouchableOpacity } from 'react-native'
 import { connect } from 'react-redux'
-import { login } from '../../../store/actions/auth'
+import { login } from '../store/actions/auth'
 
-class LoginForm extends Component {
+interface loginFormProps {
+  navigation?: object;
+  login(email: string, password: string): any;
+  navigate(location: string): any;
+}
+
+interface loginFormState {
+}
+
+class LoginForm extends Component<loginFormProps, loginFormState>{
   static navigationOptions = {
     title: 'Connexion',
     headerLeft: null
