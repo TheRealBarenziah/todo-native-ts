@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 15204,
-  "expoServerNgrokUrl": "https://gz-7qj.anonymous.todonativets.exp.direct",
-  "packagerNgrokUrl": "https://packager.gz-7qj.anonymous.todonativets.exp.direct",
-  "ngrokPid": 15326
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
